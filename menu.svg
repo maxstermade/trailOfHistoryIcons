@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch Beta 39.1 (31721) - http://www.bohemiancoding.com/sketch -->
+    <title>menu</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="menu" fill="#D0011B">
+            <polygon id="mapBG" fill-opacity="0" points="410 109 410 211.036887 410 303.949731 410 406 103 406 103 303.963102 103 211.036887 103 109"></polygon>
+            <polygon id="leftFold" points="409.792453 108.575951 409.792453 158.575951 104.792453 158.575951 104.792456 108.575951"></polygon>
+            <polygon id="midFold" points="409.632238 282 409.632238 232 104.632238 232 104.632238 282"></polygon>
+            <polygon id="rightFold" points="408.79284 355.396642 408.79284 405.396642 103.79284 405.396642 103.79284 355.396642"></polygon>
+        </g>
+    </g>
+</svg>
