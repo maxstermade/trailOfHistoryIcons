@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="512dp"
+    android:height="512dp"
+    android:viewportWidth="512"
+    android:viewportHeight="512">
+
+    <path
+        android:name="mapBG"
+        android:fillColor="#D0011B"
+        android:fillAlpha="0"
+        android:strokeWidth="1"
+        android:pathData="M 410 109 L 410 211.036887 L 410 303.949731 L 410 406 L 103 406 L 103 303.963102 L 103 211.036887 L 103 109 Z" />
+    <path
+        android:name="leftFold"
+        android:fillColor="#D0011B"
+        android:strokeWidth="1"
+        android:pathData="M 409.792453 108.575951 L 409.792453 158.575951 L 104.792453 158.575951 L 104.792456 108.575951 Z" />
+    <path
+        android:name="midFold"
+        android:fillColor="#D0011B"
+        android:strokeWidth="1"
+        android:pathData="M 409.632238 282 L 409.632238 232 L 104.632238 232 L 104.632238 282 Z" />
+    <path
+        android:name="rightFold"
+        android:fillColor="#D0011B"
+        android:strokeWidth="1"
+        android:pathData="M 408.79284 355.396642 L 408.79284 405.396642 L 103.79284 405.396642 L 103.79284 355.396642 Z" />
+</vector>

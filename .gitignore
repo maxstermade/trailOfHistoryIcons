@@ -1,0 +1,46 @@
+# Android
+gen/
+build/
+local.properties
+google-services.json
+# Old Android
+bin/
+
+# IDEA
+*.iws
+*.iml
+*.ipr
+.idea
+.gradle/
+out
+
+# Eclipse
+.project
+.classpath
+.settings
+.metadata
+# Eclipse NDK
+.cproject
+
+# Mac
+.DS_Store
+
+# Generic
+*~
+.swp
+
+# Android NDK
+*.o
+*.o.d
+*_g
+*.a
+*.so
+*.pinfo
+*.gcno
+*.bar
+*.stackdump
+gdbserver
+gdb.setup
+
+# Project Specific
+keys.xml
