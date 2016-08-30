@@ -6,10 +6,10 @@
     <defs></defs>
     <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="triFold">
-            <polygon id="mapBG" fill="#D0011B" points="34 122.555267 186.537428 61.568943 325.436274 116.888454 478 56 478 391.169983 325.462268 452.058437 186.510643 396.738926 34 457.72525"></polygon>
-            <polygon id="leftFold" fill="#FFFFFF" points="59 137.563841 179.079605 89 179.079605 374 59 422.563841"></polygon>
-            <polygon id="midFold" fill="#FFFFFF" points="316.079605 137.563841 196 89 196 374 316.079605 422.563841"></polygon>
-            <polygon id="rightFold" fill="#FFFFFF" points="333 137.563841 453.079605 89 453.079605 374 333 422.563841"></polygon>
+            <polygon id="mapBG" fill="#D0011B" points="34 122 186 61 325 117 478 56 478 391 325 452 186 397 34 458"></polygon>
+            <polygon id="leftFold" fill="#FFFFFF" points="59 137 179 89 179 374 59 422"></polygon>
+            <polygon id="midFold" fill="#FFFFFF" points="316 137 196 89 196 374 316 422"></polygon>
+            <polygon id="rightFold" fill="#FFFFFF" points="333 137 453 89 453 374 333 422"></polygon>
         </g>
     </g>
 </svg>
