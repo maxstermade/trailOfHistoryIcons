@@ -8,7 +8,7 @@ Exporting vectors to SVG in Sketch can be a bit complicated. By default, Sketch 
 
 Another bit of confusion was comparing the SVG and the converted XML document. Sketch outputs shapes as vector primitives.
 
-```
+```xml
 <g id="map">
     <polygon id="mapBG" fill="#D0011B" points="0 20 35 6.13000011 65 20 100.001885 5 100.001885 80.4999987 65 95 35 81.8499985 0 95.5999985"></polygon>
     <polygon id="leftFold" fill="#FFFFFF" points="4 23 33 11 33 78 4 89"></polygon>
@@ -19,7 +19,7 @@ Another bit of confusion was comparing the SVG and the converted XML document. S
 
 For the particular animation we were trying to produce, we needed all of the objects to export as paths. I was using [Inloop's svg2android](http://inloop.github.io/svg2android/) to convert it. It changes everything over to paths"
 
-```
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="100dp"
@@ -52,7 +52,7 @@ For the particular animation we were trying to produce, we needed all of the obj
 
 To output the Sketch vector file as a path instead of a polygon shape I had to switch to Illustrator. By default, Illustrator also chooses to output SVG primitives. But you can work around this by changing each shape into a compound path in the Objects menu.
 
-```
+```xml
 <svg width="100" height="100" viewBox="0 0 100 100"> style="enable-background:new 0 0 100 100;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#D0011B;}
